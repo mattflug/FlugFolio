@@ -20,14 +20,14 @@ const Landing = ({ setSelectedPage }) => {
             <img
               alt="profile"
               className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
-              src="assets/profile-image.png"
+              src="assets/prof-pic.jpeg"
             />
           </div>
         ) : (
           <img
             alt="profile"
             className="z-10 w-full max-w-[400px] md:max-w-[600px]"
-            src="assets/profile-image.png"
+            src="assets/prof-pic.jpeg"
           />
         )}
       </div>
@@ -56,7 +56,8 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Full Stack MERN Developer building Apps centered around Sports and Economics.
+            Full Stack MERN Developer building Apps centered around Sports and
+            Economics.
           </p>
         </motion.div>
 
