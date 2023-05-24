@@ -25,7 +25,7 @@ const Testimonials = () => {
         </p>
       </motion.div>
 
-      {/* TESTIMONIALS */}
+      {/* ABOUT */}
       <div className="md:flex md:justify-between gap-8">
         <motion.div
           className="mx-auto relative bg-blue max-w-[400px] h-[350px] flex flex-col justify-end p-16 mt-48
@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+            Will be looking for unique stats to store in a database for Baseball, Basketball, Football, Soccer, and others.
           </p>
         </motion.div>
 
