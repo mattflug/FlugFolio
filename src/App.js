@@ -1,4 +1,4 @@
-import Navbar from "./scenes/navbar";
+import Navbar from "./scenes/Navbar";
 import Landing from "./scenes/Landing";
 import DotGroup from "./scenes/DotGroup";
 import MySkills from "./scenes/MySkills";
