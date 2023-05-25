@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Will be looking for unique stats to store in a database for Baseball, Basketball, Football, Soccer, and others.
+            Storing unique stats into databases for Baseball, Basketball, Football, Soccer.
           </p>
         </motion.div>
 
@@ -59,7 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Creating Financial Apps involving Monetary Policy, Stock Market, and Global Trade.
+            Creating Financial Apps that look at Monetary Policy, Stock Market, and Global Trade.
           </p>
         </motion.div>
 
@@ -77,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Apps focussed on connecting to the Ethereum Network to write smart contracts.
+            Apps that involve transactions on the Ethereum Blockchain.
           </p>
         </motion.div>
       </div>
