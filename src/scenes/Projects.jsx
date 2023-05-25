@@ -72,17 +72,17 @@ const Projects = () => {
           viewport={{ once: true, amount: 0.2 }}
         >
           {/* ROW 1 */}
+          <Project title="Project 1" />
+          <Project title="Project 2" />
+          <Project title="Project 3" />
+
+          {/* ROW 2 */}
           <div
             className="flex justify-center text-center items-center p-10 bg-red
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
           >
             
           </div>
-          <Project title="Project 1" />
-          <Project title="Project 2" />
-
-          {/* ROW 2 */}
-          <Project title="Project 3" />
           <Project title="Project 4" />
           <Project title="Project 5" />
 
