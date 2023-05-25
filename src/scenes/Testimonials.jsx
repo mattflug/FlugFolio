@@ -59,8 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+            Creating Financial Apps involving Monetary Policy, Stock Market, and Global Trade.
           </p>
         </motion.div>
 
@@ -78,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+            Apps focussed on connecting to the Ethereum Network to write smart contracts.
           </p>
         </motion.div>
       </div>
