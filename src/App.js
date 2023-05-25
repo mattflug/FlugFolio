@@ -1,4 +1,4 @@
-import Navbar from "./scenes/Navbar";
+import NavBar from "./scenes/NavBar";
 import Landing from "./scenes/Landing";
 import DotGroup from "./scenes/DotGroup";
 import MySkills from "./scenes/MySkills";
@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="app bg-deep-blue">
-      <Navbar
+      <NavBar
         isTopOfPage={isTopOfPage}
         selectedPage={selectedPage}
         setSelectedPage={setSelectedPage}
