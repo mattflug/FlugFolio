@@ -23,11 +23,9 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I'm a Full Stack MERN Developer with experience using MySQL.
+            I'm a MERN Developer with experience using MySQL.
           </p>
         </motion.div>
-
-      
       </div>
 
       {/* SKILLS */}
@@ -47,17 +45,11 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">
-                Model
-              </p>
+              <p className="font-playfair font-semibold text-3xl mt-3">Model</p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
-          </p>
+          <p className="mt-5">I use MongoDB or MySQL to create the database.</p>
         </motion.div>
 
         {/* INNOVATIVE */}
@@ -75,18 +67,11 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">
-                View
-              </p>
+              <p className="font-playfair font-semibold text-3xl mt-3">View</p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
-          </p>
+          <p className="mt-5">React.js is used for the front end of my websites.</p>
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
@@ -110,10 +95,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+            Node.js and Express comprise the backend routes.
           </p>
         </motion.div>
       </div>

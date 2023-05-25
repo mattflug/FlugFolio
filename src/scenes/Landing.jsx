@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Full Stack MERN Developer building Apps centered around Sports and
+            Full Stack Developer building websites centered around Sports and
             Economics.
           </p>
         </motion.div>
