@@ -49,7 +49,7 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">I use MongoDB or MySQL to create the database.</p>
+          <p className="mt-5">I'm able to use MongoDB or MySQL to create the database.</p>
         </motion.div>
 
         {/* INNOVATIVE */}
@@ -71,7 +71,7 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">React.js is used for the front end of my websites.</p>
+          <p className="mt-5">React is used to build the view layer in these websites.</p>
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
@@ -95,7 +95,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Node.js and Express comprise the backend routes.
+            Express and Node.js are used to create the routes between database and user.
           </p>
         </motion.div>
       </div>
