@@ -2,7 +2,6 @@ import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 
 const MySkills = () => {
-  
   return (
     <section id="skills" className="pt-10 pb-24">
       {/* HEADER AND IMAGE SECTION */}
@@ -47,9 +46,14 @@ const MySkills = () => {
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">Model</p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
+            <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]">
+              <img alt="mongodb" src="assets/mongodb.png" />
+              <img alt="mysql" src="assets/mysql.png" />
+            </div>
           </div>
-          <p className="mt-5">I'm able to use MongoDB or MySQL to create the database.</p>
+          <p className="mt-5">
+            I'm able to use MongoDB or MySQL to create the database.
+          </p>
         </motion.div>
 
         {/* INNOVATIVE */}
@@ -71,7 +75,9 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5">React is used to build the view layer in these websites.</p>
+          <p className="mt-5">
+            React is used to build the view layer in these websites.
+          </p>
         </motion.div>
         {/* IMAGINATIVE */}
         <motion.div
@@ -95,7 +101,8 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Express and Node.js are used to create the routes between database and user.
+            Express and Node.js are used to create the routes between database
+            and user.
           </p>
         </motion.div>
       </div>
