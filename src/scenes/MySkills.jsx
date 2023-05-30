@@ -55,7 +55,7 @@ const MySkills = () => {
             </div>
           </div>
           <p className="mt-5">
-            I'm able to use MongoDB or MySQL to create the database.
+            MongoDB or MySQL is used to model the database for each app.
           </p>
         </motion.div>
 
@@ -85,7 +85,7 @@ const MySkills = () => {
             </div>
           </div>
           <p className="mt-5">
-            React is used to build the view layer in these websites.
+            React is used to render the view layer to the client.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -116,8 +116,7 @@ const MySkills = () => {
             </div>
           </div>
           <p className="mt-5">
-            Express and Node.js are used to create the routes between database
-            and user.
+            Express and Node.js create the backend of each application and handle routing.
           </p>
         </motion.div>
       </div>
