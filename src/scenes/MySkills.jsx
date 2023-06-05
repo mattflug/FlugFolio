@@ -85,7 +85,7 @@ const MySkills = () => {
               <img
                 className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
                 alt="react"
-                src="assets/react.png"
+                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"
               />
             </div>
           </div>
@@ -116,7 +116,7 @@ const MySkills = () => {
               <img
                 className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
                 alt="node"
-                src="assets/node.png"
+                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"
               />
             </div>
           </div>

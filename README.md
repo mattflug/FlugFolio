@@ -1,10 +1,11 @@
 # FlugFolio
 
 ## Description
-Personal React Portfolio to showcase This app is built uising Ed Roh's design.
+Personal React Portfolio to showcase projects. This app is built using Ed Roh's design and deployed using Vercel.
+The website can be found here: https://flug-folio-af267rqk0-mattflug.vercel.app/
 
 ## About
-The website can be found here
+This site was built using React, Javascript, Tailwind CSS, Framer Montion for animation, React Hook Form for form validation.
 
 ## Contact
 
