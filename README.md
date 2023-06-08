@@ -9,7 +9,7 @@ The website can be found here: <a href="https://flug-folio-qeweijwcc-mattflug.ve
 
 ## About
 
-This app uses the following languages and libraries: React.js, Javascript, Tailwind CSS, Framer Montion for animation, and React Hook Form for form validation.
+This app uses the following languages and libraries: React.js, Javascript, Tailwind CSS, Framer Motion for animation, and React Hook Form for form validation.
 
 ## Contact
 
