@@ -3,7 +3,7 @@
 ## Description
 
 Personal React Portfolio to showcase projects. This app is built using Ed Roh's design.
-The website can be found here: <a href="http://stackoverflow.com" target="_blank">Go</a>
+The website can be found here: <a href="http://stackoverflow.com" target="_blank">FlugFolio</a>
 
 ![alt text](./src/assets/picjpg.jpg)
 
