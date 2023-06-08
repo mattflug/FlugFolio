@@ -55,7 +55,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          This section displays all my projects to date.
+          This section displays all my apps to date.
         </p>
       </motion.div>
 

@@ -22,7 +22,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I make websites following the Model View Controller design pattern.
+            I build sites while following the Model View Controller design pattern.
           </p>
         </motion.div>
       </div>
@@ -48,19 +48,19 @@ const MySkills = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]">
               <img
-                className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
-                alt="mongodb"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
+                className="w-1/2 md:w-3/4 h-32 absolute left-0 top-0 z-[-1]"
+                alt="mysql"
+                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
               />
               <img
                 className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
                 alt="mongodb"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
+                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
               />
             </div>
           </div>
           <p className="mt-5">
-            MongoDB or MySQL is used to model the database for each app.
+            MongoDB or MySQL is used to create the database.
           </p>
         </motion.div>
 
@@ -90,7 +90,7 @@ const MySkills = () => {
             </div>
           </div>
           <p className="mt-5">
-            React is used to render the view layer to the client.
+            React acts as the frontend and renders the view layer to the client.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -121,7 +121,7 @@ const MySkills = () => {
             </div>
           </div>
           <p className="mt-5">
-            Express and Node.js create the backend of each application and
+            Express and Node.js together, create the backend the application and
             handle routing.
           </p>
         </motion.div>
