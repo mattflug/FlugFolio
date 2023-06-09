@@ -53,7 +53,7 @@ const MySkills = () => {
                 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
               />
               <img
-                className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
+                className="w-1/2 md:w-3/4 h-32 absolute left-20 top-0 z-[-1]"
                 alt="mongodb"
                 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
               />
