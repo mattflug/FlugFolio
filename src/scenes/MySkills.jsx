@@ -57,6 +57,7 @@ const MySkills = () => {
                 alt="mongodb"
                 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
               />
+              
             </div>
           </div>
           <p className="mt-5">
