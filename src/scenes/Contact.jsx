@@ -53,9 +53,7 @@ const Contact = () => {
             visible: { opacity: 1, y: 0 },
           }}
           className="basis-1/2 flex justify-center"
-        >
-          
-        </motion.div>
+        ></motion.div>
 
         <motion.div
           initial="hidden"
@@ -71,7 +69,7 @@ const Contact = () => {
           <form
             target="_blank"
             onSubmit={onSubmit}
-            action="https://formsubmit.co/mbflug@gmail.com"
+            action="https://formsubmit.co/ae7ce4df139284e131336d346ced023d"
             method="POST"
           >
             <input
