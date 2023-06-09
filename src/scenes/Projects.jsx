@@ -69,9 +69,15 @@ const Projects = () => {
           viewport={{ once: true, amount: 0.2 }}
         >
           {/* ROW 1 */}
-          <Project title="Project 1" />
-          <Project title="Project 2" />
-          <Project title="Project 3" />
+
+          <Project
+            href="https://github.com/mattflug/RobotUmpire"
+            target="_blank"
+            rel="noreferrer"
+            title="Robot Umpire"
+          />
+          <Project title="MFlug Portfolio" />
+          <Project title="Real Time Commodities" />
         </motion.div>
       </div>
     </section>
