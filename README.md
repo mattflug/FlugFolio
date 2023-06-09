@@ -2,7 +2,7 @@
 
 ## Description
 
-Personal React Portfolio to showcase projects. This app is built using Ed Roh's design.
+Personal React Portfolio to showcase projects. This portfolio is built off Ed Roh's design.
 
 ![alt text](./src/assets/picjpg.jpg)
 The website can be found here: <a href="https://flug-folio-qeweijwcc-mattflug.vercel.app/" target="_blank">FlugFolio</a>
