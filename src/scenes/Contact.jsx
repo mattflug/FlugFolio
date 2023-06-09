@@ -94,7 +94,7 @@ const Contact = () => {
               className="w-full bg-blue font-semibold placeholder-opaque-black p-3 mt-5"
               type="text"
               placeholder="EMAIL"
-              {...register("email", {
+              {...register("mbflug@gmail.com", {
                 required: true,
                 pattern: /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i,
               })}
