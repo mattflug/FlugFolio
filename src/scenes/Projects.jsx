@@ -1,6 +1,7 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 
+
 const container = {
   hidden: {},
   visible: {
@@ -14,7 +15,7 @@ const projectVariant = {
   hidden: { opacity: 0, scale: 0.8 },
   visible: { opacity: 1, scale: 1 },
 };
-
+//will put anchor tag to add links
 const Project = ({ title }) => {
   const overlayStyles = `absolute h-full w-full opacity-0 hover:opacity-90 transition duration-500
     bg-grey z-30 flex flex-col justify-center items-center text-center p-16 text-deep-blue`;
@@ -79,7 +80,7 @@ const Projects = () => {
           <Project title="MFlug Portfolio" />
           <Project title="Real Time Commodities" />
         </motion.div>
-      </div>
+      </div> 
     </section>
   );
 };
