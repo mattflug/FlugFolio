@@ -1,5 +1,6 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
+// import { Link } from "react-router-dom";
 
 
 const container = {
@@ -16,7 +17,7 @@ const projectVariant = {
   visible: { opacity: 1, scale: 1 },
 };
 //will put anchor tag to add links
-const Project = ({ title }) => {
+const Link = ({ title }) => {
   const overlayStyles = `absolute h-full w-full opacity-0 hover:opacity-90 transition duration-500
     bg-grey z-30 flex flex-col justify-center items-center text-center p-16 text-deep-blue`;
   const projectTitle = title.split(" ").join("-").toLowerCase();
@@ -56,7 +57,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          This section displays all my apps to date.
+          This section displays all my websites to date.
         </p>
       </motion.div>
 
@@ -71,14 +72,14 @@ const Projects = () => {
         >
           {/* ROW 1 */}
 
-          <Project
+          <Link
             href="https://github.com/mattflug/RobotUmpire"
             target="_blank"
             rel="noreferrer"
             title="Robot Umpire"
           />
-          <Project title="MFlug Portfolio" />
-          <Project title="Real Time Commodities" />
+          <Link title="MFlug Portfolio" />
+          <Link title="Real Time Commodities" />
         </motion.div>
       </div> 
     </section>
