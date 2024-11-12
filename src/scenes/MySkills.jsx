@@ -18,11 +18,12 @@ const MySkills = () => {
           }}
         >
           <p className="font-playfair font-semibold text-4xl mb-5">
-            MY <span className="text-red">SKILLS</span>
+            What We Do<span className="text-red"></span>
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I build sites while following the Model View Controller design pattern.
+            We facilitate the conversion from empty office space into a full
+            functioning data center.
           </p>
         </motion.div>
       </div>
@@ -46,19 +47,7 @@ const MySkills = () => {
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">Model</p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]">
-              <img
-                className="w-1/2 md:w-3/4 h-32 absolute left-0 top-0 z-[-1]"
-                alt="mysql"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"
-              />
-              <img
-                className="w-1/2 md:w-3/4 h-32 absolute left-20 top-0 z-[-1]"
-                alt="mongodb"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"
-              />
-              
-            </div>
+            <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]"></div>
           </div>
           <p className="mt-5">
             MongoDB or MySQL is used to create the database.
@@ -83,11 +72,7 @@ const MySkills = () => {
               <p className="font-playfair font-semibold text-3xl mt-3">View</p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]">
-              <img
-                className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
-                alt="react"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"
-              />
+
             </div>
           </div>
           <p className="mt-5">
