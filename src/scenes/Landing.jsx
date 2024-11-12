@@ -56,8 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Full Stack Developer building websites centered around Sports and
-            Economics.
+            Forming the future of data center construction in metro communities.
           </p>
         </motion.div>
 
@@ -79,7 +78,7 @@ const Landing = ({ setSelectedPage }) => {
             onClick={() => setSelectedPage("contact")}
             href="#contact"
           >
-            Contact Me
+            Contact Us
           </AnchorLink>
           <AnchorLink
             className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5"
