@@ -50,7 +50,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]"></div>
           </div>
           <p className="mt-5">
-            MongoDB or MySQL is used to create the database.
+            The large amount of office vacancies that resulted from covid can be transformed into something useful.
           </p>
         </motion.div>
 

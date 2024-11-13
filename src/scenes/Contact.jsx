@@ -20,6 +20,11 @@ const Contact = () => {
   return (
     <section id="contact" className="contact py-48">
       {/* HEADINGS */}
+      <img
+        alt="profile"
+        className="z-10 w-full max-w-[500px] md:max-w-[500px]"
+        src="assets/team.png"
+      />
       <motion.div
         initial="hidden"
         whileInView="visible"
