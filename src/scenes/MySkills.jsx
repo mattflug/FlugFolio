@@ -45,7 +45,7 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">Model</p>
+              <p className="font-playfair font-semibold text-3xl mt-3">Office Vacancies</p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]"></div>
           </div>
@@ -69,7 +69,7 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">View</p>
+              <p className="font-playfair font-semibold text-3xl mt-3">Data Centers</p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]">
 
@@ -95,15 +95,10 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Controller
+                Social Impact
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]">
-              <img
-                className="w-1/2 md:w-3/4 h-32 absolute right-0 top-0 z-[-1]"
-                alt="node"
-                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"
-              />
             </div>
           </div>
           <p className="mt-5">
