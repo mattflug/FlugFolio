@@ -50,14 +50,14 @@ const Projects = () => {
       >
         <div>
           <p className="font-playfair font-semibold text-4xl">
-            <span className="text-red">PRO</span>JECTS
+            <span >Data</span> Center Opportunies
           </p>
           <div className="flex justify-center mt-5">
             <LineGradient width="w-2/3" />
           </div>
         </div>
         <p className="mt-10 mb-10">
-          This section displays all my websites to date.
+          Displaying office vacancies in downtown Denver that could be converted into data centers.
         </p>
       </motion.div>
 
@@ -76,10 +76,10 @@ const Projects = () => {
             href="https://github.com/mattflug/RobotUmpire"
             target="_blank"
             rel="noreferrer"
-            title="Robot Umpire"
+            title="370 17th Street"
           />
-          <Link title="MFlug Portfolio" />
-          <Link title="Real Time Commodities" />
+          <Link title="621 17th Street" />
+          <Link title="700 17th Street" />
         </motion.div>
       </div> 
     </section>

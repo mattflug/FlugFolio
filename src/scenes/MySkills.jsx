@@ -22,8 +22,8 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            We facilitate the conversion from empty office space into a full
-            functioning data center.
+            We facilitate the conversion of empty office spaces into full
+            functioning data centers.
           </p>
         </motion.div>
       </div>
@@ -45,12 +45,15 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">Office Vacancies</p>
+              <p className="font-playfair font-semibold text-3xl mt-3">
+                Office Vacancies
+              </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]"></div>
           </div>
           <p className="mt-5">
-            The large amount of office vacancies that resulted from covid can be transformed into something useful.
+            The large amount of office vacancies that resulted from covid can be
+            transformed into something useful.
           </p>
         </motion.div>
 
@@ -69,14 +72,15 @@ const MySkills = () => {
           <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
-              <p className="font-playfair font-semibold text-3xl mt-3">Data Centers</p>
+              <p className="font-playfair font-semibold text-3xl mt-3">
+                Data Centers
+              </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]">
-
-            </div>
+            <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]"></div>
           </div>
           <p className="mt-5">
-            React acts as the frontend and renders the view layer to the client.
+            Surging demand for data centers, aided by government subsidies,
+            creates a unique market opportunity.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -98,12 +102,12 @@ const MySkills = () => {
                 Social Impact
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]">
-            </div>
+            <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]"></div>
           </div>
           <p className="mt-5">
-            Express and Node.js together, create the backend the application and
-            handle routing.
+            The environment surrounding the data center is a priority. Heat
+            recovery and power conservation methods will be deployed in each
+            center.
           </p>
         </motion.div>
       </div>
