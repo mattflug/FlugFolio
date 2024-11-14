@@ -20,32 +20,28 @@ const Contact = () => {
   return (
     <section id="contact" className="contact py-48">
       {/* HEADINGS */}
-      <img
-        alt="profile"
-        className="z-10 w-full max-w-[500px] md:max-w-[500px]"
-        src="assets/team.png"
-      />
-      <motion.div
-        initial="hidden"
-        whileInView="visible"
-        viewport={{ once: true, amount: 0.5 }}
-        transition={{ duration: 0.5 }}
-        variants={{
-          hidden: { opacity: 0, x: 50 },
-          visible: { opacity: 1, x: 0 },
-        }}
-        className="flex justify-end w-full"
-      >
-        <div>
-          <p className="font-playfair font-semibold text-4xl">
-            <span className="text-yellow">CONTACT US</span>
-          </p>
-          <div className="flex md:justify-end my-5">
-            <LineGradient width="w-1/2" />
+      <div className="font-playfair font-semibold text-4xl">
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true, amount: 0.5 }}
+          transition={{ duration: 0.5 }}
+          variants={{
+            hidden: { opacity: 0, x: 50 },
+            visible: { opacity: 1, x: 0 },
+          }}
+          className="flex justify-end w-full"
+        >
+          <div>
+            <p className="font-playfair font-semibold text-4xl">
+              <span className="text-yellow">CONTACT US</span>
+            </p>
+            <div className="flex md:justify-end my-5">
+              <LineGradient width="w-1/2" />
+            </div>
           </div>
-        </div>
-      </motion.div>
-
+        </motion.div>
+      </div>
       {/* FORM & IMAGE */}
       <div className="md:flex md:justify-between gap-16 mt-5">
         <motion.div
@@ -58,7 +54,14 @@ const Contact = () => {
             visible: { opacity: 1, y: 0 },
           }}
           className="basis-1/2 flex justify-center"
-        ></motion.div>
+        >
+          {" "}
+          <img
+            alt="profile"
+            className="z-10 w-full max-w-[700px] md:max-w-[700px] items-center justify-center"
+            src="assets/team.png"
+          />
+        </motion.div>
 
         <motion.div
           initial="hidden"

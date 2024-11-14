@@ -60,7 +60,7 @@ function App() {
           <MySkills />
         </motion.div>
       </div>
-      
+
       <div className="w-5/6 mx-auto">
         <motion.div
           margin="0 0 -200px 0"
@@ -70,6 +70,7 @@ function App() {
           <Projects />
         </motion.div>
       </div>
+  \
       <div className="w-5/6 mx-auto md:h-full">
         <motion.div
           margin="0 0 -200px 0"
